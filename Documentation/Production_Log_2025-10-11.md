@@ -8,8 +8,10 @@
 ## **Work Performed**
 - Conducted further visual exploration of **Nereus geological formations**, focusing on shape language, erosion logic, and alien morphology.  
 - Established a formal **Nereus Planetary Geology Framework**, defining macro-, meso-, and microformation categories for visual and geological taxonomy.  
-- Created and configured a **GitHub repository** for the project to organize and version-control documentation, assets, and development materials.  
-- Designed and finalized a **concept art presentation sheet template**, including standardized footer, framing, and typographic hierarchy for consistent visual documentation.  
+- Created and configured a **GitHub repository** for the project to organize and version-control documentation, assets, and development materials.
+- Located the main project font -  **Cinzel** 
+- Designed and finalized a **concept art presentation sheet template**, including standardized footer, framing, and typographic hierarchy for consistent visual documentation.
+
 
 ---
 

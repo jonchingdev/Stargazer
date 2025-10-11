@@ -1,20 +1,19 @@
 # Stargazer
 Development repository for Stargazer - an indie sci-fi exploration project centered on environmental storytelling, design systems, and procedural worldbuilding.
 
-# Stargazer
+---
+
+## Overview
 
 *A sci‑fi exploration project set on a world that remembers everything it has lost.*
 
 **Stargazer** is an independent world‑building and design project exploring the intersection of art, science, and philosophy through the lens of a desolate ocean planet — **Nereus**.  
 It blends art, procedural environments, and cinematic storytelling to construct a cohesive narrative world grounded in geology, emotion, and myth.
 
----
-
-## Overview
-
 A **third‑person exploration experience** that blurs the line between **science fiction** and **spiritual allegory**.  
 The player is stranded on Nereus — a storm‑swept planet scarred by an ancient cataclysm.  
 Beneath its endless rain and glass‑scarred cliffs lie echoes of a civilization that once reached beyond the stars, only to fall back into the sea.
+
 Developed in Unreal Engine, the project leverages real-time rendering to achieve cinematic realism, environmental storytelling, and atmospheric immersion.
 
 ---
@@ -71,5 +70,5 @@ It asks: What remains after the end, and who remembers the forgotten gods of pro
 
 ---
 
-**© 2025 Jonathan Ching / Hummingbaird Studios**  
+**© 2025 Jonathan Ching**  
 All artwork, designs, and writing are original unless stated otherwise.

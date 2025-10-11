@@ -42,7 +42,7 @@ Developed in Unreal Engine, the project leverages real-time rendering to achieve
 
 ## Repository Contents
 
-```
+
 /docs/                   → Design bibles, creative foundations, lore documents, and technical notes  
 /concepts/               → Environment, prop, and character concept art; sketches and visual development  
 /assets/                 → Blender and Unreal assets (models, materials, shaders, textures, etc.)  
@@ -55,7 +55,7 @@ Developed in Unreal Engine, the project leverages real-time rendering to achieve
 /pipeline/               → Workflow tools, scripts, and automation utilities (Python, batch, etc.)  
 /audio/                  → Sound design, ambient soundscapes, and music stems  
 /documentation/          → Production logs, devlogs, and version history 
-```
+
 
 ---
 

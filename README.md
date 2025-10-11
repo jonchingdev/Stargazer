@@ -71,5 +71,5 @@ It asks: What remains after the end, and who remembers the forgotten gods of pro
 
 ---
 
-**© 2025 Jonathan Ching / Hummingbaird Studios**  
+**© 2025 Jonathan Ching**  
 All artwork, designs, and writing are original unless stated otherwise.
